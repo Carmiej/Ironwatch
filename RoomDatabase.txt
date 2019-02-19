@@ -1,0 +1,15 @@
+*
+1
+cold room
+true
+2
+*
+2
+warm room
+false
+1 3
+*
+3
+stink room
+true
+2
