@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 06 16:45:17 NZST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-7bb8-a584-00000ec8a370 
+on database directory C:\Users\The Razorback\Documents\NetBeansProjects\IronWatchGui2\Ironwatch with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/The%20Razorback/Documents/NetBeansProjects/IronWatchGui2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\The Razorback\Documents\NetBeansProjects\IronWatchGui2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
